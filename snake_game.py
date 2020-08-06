@@ -3,6 +3,9 @@ import time
 import random
 delay=0.1
 
+# snake game by ahsan
+
+
 # score
 score=0
 high_score=0
